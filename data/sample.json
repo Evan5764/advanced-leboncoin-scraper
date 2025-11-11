@@ -1,0 +1,25 @@
+{
+    "listings": [
+        {
+            "list_id": 2968756440,
+            "first_publication_date": "2025-04-08 10:53:00",
+            "index_date": "2025-04-24 08:43:25",
+            "status": "active",
+            "category_id": "9",
+            "category_name": "Ventes immobilières",
+            "phone": "02996*****",
+            "original_phone": "",
+            "subject": "Appartement 4 pièces 73 m²",
+            "body": "Appartement 4 pièces 73 m²\n\nLE CABINET LOUIS-PORCHERET vous propose en exclusivité...\n\nNe manquez pas cette opportunité rare !",
+            "price": [525000],
+            "owner": {
+                "store_id": "81846902",
+                "name": "CABINET LOUIS PORCHERET"
+            },
+            "images": [
+                "https://img.leboncoin.fr/api/v1/lbcpb1/images/92/83/47/928347abf52ee9593ddd940eb4aad861953aaec6.jpg?rule=ad-image",
+                "https://img.leboncoin.fr/api/v1/lbcpb1/images/68/f8/fa/68f8faf0ba3a31311eb77fb10c5a94280b6dc5a6.jpg?rule=ad-image"
+            ]
+        }
+    ]
+}
