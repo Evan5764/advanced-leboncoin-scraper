@@ -1,0 +1,6 @@
+{
+    "base_url": "https://www.leboncoin.fr",
+    "category_filter": "real-estate",
+    "location_filter": "paris",
+    "phone_number_scraping": true
+}
